@@ -1,4 +1,4 @@
-I don't use this github for work ✌️
+This is my personal github, I don't use it for work ✌️
 
 <img src="https://flying-git.com/franciscop.svg" />
 
